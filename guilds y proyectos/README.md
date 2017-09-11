@@ -19,7 +19,12 @@ Y como todo en OSW... deberán ser Open Source, legales, éticos y sin animo de 
 ### ¿Que roles tenemos ahora?
 
 **Contributors**
-Aportan de diversas formas al proyecto: código, documentación, arte...
+- Aportan de diversas formas al proyecto: código, documentación, arte...
 
 **Leaders**
-Además de contribuir... reclutan al equipo, promocionan el proyecto, motivan al grupo de trabajo y gestionan los recursos.
+- Además de contribuir... reclutan al equipo, promocionan el proyecto, motivan al grupo de trabajo y gestionan los recursos.
+
+
+## Proyectos
+
+TBD
