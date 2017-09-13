@@ -32,14 +32,35 @@ Y como todo en OSW... deberán ser Open Source, legales, éticos y sin animo de 
 
 ## Proyectos
 
-### ¿Como unirse/participat?
+### ¿Como unirse/participar?
 
+Cada proyecto o conjuntos de proyectos (organización) es distinto, por lo general cada proyecto corresponde a un repositorio de Github, pero en algunos casos puede ser que el proyecto original sea muy grande y deba organizarse en varios repositorios. En cuyo caso se organizarán a través de una organización de Github con sus propios repositorios.
+
+Por lo general cada proyecto cuenta además con un canal de Slack ([invitaciones aquí](http://invitations-osweekends.herokuapp.com/)) donde ponder organizarlo todo de una forma ms efectiva. 
+
+**Quiero ser contributor**
+TBD
+
+**Quiero liderar un proyecto**
+TBD
+
+### ¿Como propongo un proyecto?
 TBD
 
 ### Proyectos propios
 
+A día de hoy Open Source Weekends cuenta con 3 organizaciones en Github ([OSWeekends](https://github.com/OSWeekends), [GoblinDB](https://github.com/GoblinDBRocks) y [GingerCode](https://github.com/GingerCode)), cada una de ellas se organiza de forma independiente.
+
+
+### [Organización: OSWeekends](https://github.com/OSWeekends) 
 TBD
 
-### Proyectos ajenos/contribuciones
+### [Organización: GoblinDB](https://github.com/GoblinDBRocks)
+TBD
 
+### [Organización: GingerCode](https://github.com/GingerCode)
+TBD
+
+
+### Proyectos ajenos/contribuciones
 TBD
