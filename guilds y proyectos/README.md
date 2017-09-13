@@ -38,9 +38,11 @@ Cada proyecto o conjuntos de proyectos (organización) es distinto, por lo gener
 
 Por lo general cada proyecto cuenta además con un canal de Slack ([invitaciones aquí](http://invitations-osweekends.herokuapp.com/)) donde ponder organizarlo todo de una forma ms efectiva. 
 
-**Quiero ser contributor**
+**Quiero unirme al guild (ser contributor)**
 
-TBD
+> En OSW creemos que contribuir esta al alcance de todos y que no siempre tiene que ser a través de código. Existen muchas de contribuir, ¡Encuentra la tuya!.
+
+Lo más sencillo suele ser presentarse en el canal del proyecto en Slack y hablar con tu futuro guild. Si el proyecto carece de canal, siempre puedes [abrir un issue](https://guides.github.com/features/issues/) en su repositorio principal y pedir que te guien.
 
 **Quiero liderar un proyecto**
 
