@@ -1,4 +1,4 @@
-# Guilds y proyectos
+# Guilds y Proyectos
 
 ## Información General
 
@@ -53,7 +53,10 @@ Lo más sencillo es buscar un proyeto que no tenga lideres por el momento y ofre
 Desde la organización podemos ayudarte mucho a crear un buen guild y a gestionar recursos, [¡Contactanos!](../README.md#contactar-con-la-organización)
 
 ### ¿Como propongo un proyecto?
-TBD
+
+> Como todo en OSW... los proyectos deberán ser Open Source, legales, éticos y sin animo de lucro.
+
+El proceso es muy sencillo. [Contactanos](../README.md#contactar-con-la-organización), te ayudaremos a difundirlo y te facilitaremos recursos (subdominios, maquinas (cloud), expertos, publicidad, etc..). ¿Muy facil, no? :-)
 
 ### Proyectos propios
 
