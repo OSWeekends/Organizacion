@@ -36,4 +36,14 @@ Y como todo en OSW... deberán ser Open Source, legales, éticos y sin animo de 
 
 ## Proyectos
 
+### ¿Como unirse/participat?
+
+TBD
+
+### Proyectos propios
+
+TBD
+
+### Proyectos ajenos/contribuciones
+
 TBD
