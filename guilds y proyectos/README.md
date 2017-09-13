@@ -8,6 +8,11 @@ Es un grupo de personas apasionadas que se junta entorno a un proyecto.
 
 Colaboran juntos para lograr que el proyecto llegue a buen puerto.
 
+Los *guilds* pueden ser:
+- Recursivos
+- Permanentes
+- Circustanciales
+
 ### ¿Qué se entiende por proyecto?
 
 Un proyecto es la puesta en marcha de una idea.
@@ -22,7 +27,11 @@ Y como todo en OSW... deberán ser Open Source, legales, éticos y sin animo de 
 - Aportan de diversas formas al proyecto: código, documentación, arte...
 
 **Leaders**
-- Además de contribuir... reclutan al equipo, promocionan el proyecto, motivan al grupo de trabajo y gestionan los recursos.
+- Además de ser contributor
+- Recluta al equipo
+- Promociona el proyecto
+- Motivan al *Guild*
+- Gestiona los recursos junto a la organización de OSW.
 
 
 ## Proyectos
