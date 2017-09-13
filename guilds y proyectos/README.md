@@ -58,15 +58,15 @@ TBD
 A día de hoy Open Source Weekends cuenta con 3 organizaciones en Github ([OSWeekends](https://github.com/OSWeekends), [GoblinDB](https://github.com/GoblinDBRocks) y [GingerCode](https://github.com/GingerCode)), cada una de ellas se organiza de forma independiente.
 
 
-### [Organización: OSWeekends](https://github.com/OSWeekends)
+#### [Organización: OSWeekends](https://github.com/OSWeekends)
 
 TBD
 
-### [Organización: GoblinDB](https://github.com/GoblinDBRocks)
+#### [Organización: GoblinDB](https://github.com/GoblinDBRocks)
 
 TBD
 
-### [Organización: GingerCode](https://github.com/GingerCode)
+#### [Organización: GingerCode](https://github.com/GingerCode)
 
 TBD
 
