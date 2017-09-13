@@ -4,7 +4,7 @@
 
 ### ¿Qué es un guild (gremio)?
 
-Es un grupo de personas apasionadas que se junta entorno a un proyecto.
+Es un grupo de personas apasionadas que se junta entorno a un proyecto/s.
 
 Colaboran juntos para lograr que el proyecto llegue a buen puerto.
 
