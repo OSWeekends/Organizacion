@@ -74,13 +74,36 @@ An amazing, simple and fun database for humans
 - [Web](http://goblindb.org)
 - Canal de Slack: #proyecto-goblindb
 - Guild Leader/s: 
+	- [@UlisesGascon](https://github.com/UlisesGascon)
+	- [@codingCarlos](https://github.com/codingCarlos)
+- Guild Members (Contributors):
+	- [@phegraphic](https://github.com/phegraphic)
+	- [@Bifuer](https://github.com/bifuer)
+	- [@Josheriff](https://github.com/Josheriff)
+	- [@Lilxelo](https://github.com/lilxelo)
+	- [@LeylaVieira](https://github.com/LeylaVieira)
+	- [@ancoar](https://github.com/ancoar)
+- Tecnologia: JS, Nodejs...
+- Estado del proyecto: Funcionando, en desarrollo
+- Repositorios:
+	- [GoblinDBRocks/GoblinDB](https://github.com/GoblinDBRocks/GoblinDB), Fear the Goblin! - An amazing, simple and fun database for humans
+	- [GoblinDBRocks/GoblinDBRocks.github.io](https://github.com/GoblinDBRocks/GoblinDBRocks.github.io), GoblinDB website
+	- [GoblinDBRocks/Art](https://github.com/GoblinDBRocks/Art), Branding, Art...
+
+
+#### [Organización: GingerCode](https://github.com/GingerCode)
+
+Un sistema de aprendizaje sencillo para todos, ¡cualquiera puede aprender a programar!
+
+- [Web](http://gingercode.org)
+- Canal de Slack: #proyecto-ginger-code
+- Guild Leader/s: 
 	- [@Bifuer](https://github.com/bifuer)
 	- [@Josheriff](https://github.com/Josheriff)
 	- [@Lilxelo](https://github.com/lilxelo)
 	- [@codingCarlos](https://github.com/codingCarlos)
 	- [@UlisesGascon](https://github.com/UlisesGascon)
 - Guild Members (Contributors):
-	- [@phegraphic](https://github.com/phegraphic)
 	- [@sergormo](https://github.com/sergormo)
 	- [@LeylaVieira](https://github.com/LeylaVieira)
 	- [@ancoar](https://github.com/ancoar)
@@ -94,10 +117,6 @@ An amazing, simple and fun database for humans
 	- [GingerCode/Desktop-Client](https://github.com/GingerCode/Desktop-Client), GingerCode Desktop aplications
 	- [GingerCode/Art](https://github.com/GingerCode/Art), Branding, Logos, etc...
 
-
-#### [Organización: GingerCode](https://github.com/GingerCode)
-
-TBD
 
 
 ### Proyectos ajenos/contribuciones
