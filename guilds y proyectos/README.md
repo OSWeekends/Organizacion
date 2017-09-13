@@ -42,7 +42,12 @@ Por lo general cada proyecto cuenta además con un canal de Slack ([invitaciones
 TBD
 
 **Quiero liderar un proyecto**
-TBD
+
+> En OSW creemos que dentro de cada persona existe un lider natural capaz de guiar a su guild hasta terminar el proyecto
+
+Lo más sencillo es buscar un proyeto que no tenga lideres por el momento y ofrecerte a liderarlo. Aunque empezar un proyecto desde cero también puede ser muy divertido.
+
+Desde la organización podemos ayudarte mucho a crear un buen guild y a gestionar recursos, [¡Contactanos!](../README.md#contactar-con-la-organización)
 
 ### ¿Como propongo un proyecto?
 TBD
