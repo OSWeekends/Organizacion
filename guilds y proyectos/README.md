@@ -15,9 +15,9 @@ Un proyecto es la puesta en marcha de una idea.
 
 Los proyectos que apoya OSW cuenta con recursos como repositorios, subdominios, cloud, etc...
 
-Y como todo en OSW... deberán ser Open Source, legales, éticos y sin animo de lucro.
+Y como todo en OSW... deberán ser Open Source, legales, éticos y sin ánimo de lucro.
 
-### ¿Que roles tenemos ahora?
+### ¿Qué roles tenemos ahora?
 
 **Contributors**
 - Aportan de diversas formas al proyecto: código, documentación, arte...
@@ -32,31 +32,31 @@ Y como todo en OSW... deberán ser Open Source, legales, éticos y sin animo de 
 
 ## Proyectos
 
-### ¿Como unirse/participar?
+### ¿Cómo unirse/participar?
 
 Cada proyecto o conjuntos de proyectos (organización) es distinto, por lo general cada proyecto corresponde a un repositorio de Github, pero en algunos casos puede ser que el proyecto original sea muy grande y deba organizarse en varios repositorios. En cuyo caso se organizarán a través de una organización de Github con sus propios repositorios.
 
-Por lo general cada proyecto cuenta además con un canal de Slack ([invitaciones aquí](http://invitations-osweekends.herokuapp.com/)) donde ponder organizarlo todo de una forma ms efectiva. 
+Por lo general cada proyecto cuenta además con un canal de Slack ([invitaciones aquí](http://invitations-osweekends.herokuapp.com/)) donde ponder organizarlo todo de una forma más efectiva. 
 
 **Quiero unirme al guild (ser contributor)**
 
-> En OSW creemos que contribuir esta al alcance de todos y que no siempre tiene que ser a través de código. Existen muchas de contribuir, ¡Encuentra la tuya!.
+> En OSW creemos que contribuir está al alcance de todos y que no siempre tiene que ser a través de código. Existen muchas de contribuir, ¡Encuentra la tuya!.
 
-Lo más sencillo suele ser presentarse en el canal del proyecto en Slack y hablar con tu futuro guild. Si el proyecto carece de canal, siempre puedes [abrir un issue](https://guides.github.com/features/issues/) en su repositorio principal y pedir que te guien.
+Lo más sencillo suele ser presentarse en el canal del proyecto en Slack y hablar con tu futuro guild. Si el proyecto carece de canal, siempre puedes [abrir un issue](https://guides.github.com/features/issues/) en su repositorio principal y pedir que te guíen.
 
 **Quiero liderar un proyecto**
 
-> En OSW creemos que dentro de cada persona existe un lider natural capaz de guiar a su guild hasta terminar el proyecto
+> En OSW creemos que dentro de cada persona existe un líder natural capaz de guiar a su guild hasta terminar el proyecto
 
-Lo más sencillo es buscar un proyeto que no tenga lideres por el momento y ofrecerte a liderarlo. Aunque empezar un proyecto desde cero también puede ser muy divertido.
+Lo más sencillo es buscar un proyeto que no tenga líderes por el momento y ofrecerte a liderarlo. Aunque empezar un proyecto desde cero también puede ser muy divertido.
 
 Desde la organización podemos ayudarte mucho a crear un buen guild y a gestionar recursos, [¡Contactanos!](../README.md#contactar-con-la-organización)
 
-### ¿Como propongo un proyecto?
+### ¿Cómo propongo un proyecto?
 
-> Como todo en OSW... los proyectos deberán ser Open Source, legales, éticos y sin animo de lucro.
+> Como todo en OSW... los proyectos deberán ser Open Source, legales, éticos y sin ánimo de lucro.
 
-El proceso es muy sencillo. [Contactanos](../README.md#contactar-con-la-organización), te ayudaremos a difundirlo y te facilitaremos recursos (subdominios, maquinas (cloud), expertos, publicidad, etc..). ¿Muy facil, no? :-)
+El proceso es muy sencillo. [Contactanos](../README.md#contactar-con-la-organización), te ayudaremos a difundirlo y te facilitaremos recursos (subdominios, máquinas (cloud), expertos, publicidad, etc..). ¿Muy fácil, no? :-)
 
 ### Proyectos propios
 
@@ -83,7 +83,7 @@ An amazing, simple and fun database for humans
 	- [@Lilxelo](https://github.com/lilxelo)
 	- [@LeylaVieira](https://github.com/LeylaVieira)
 	- [@ancoar](https://github.com/ancoar)
-- Tecnologia: JS, Nodejs...
+- Tecnología: JS, Nodejs...
 - Estado del proyecto: Funcionando, en desarrollo
 - Repositorios:
 	- [GoblinDBRocks/GoblinDB](https://github.com/GoblinDBRocks/GoblinDB), Fear the Goblin! - An amazing, simple and fun database for humans
@@ -108,7 +108,7 @@ Un sistema de aprendizaje sencillo para todos, ¡cualquiera puede aprender a pro
 	- [@LeylaVieira](https://github.com/LeylaVieira)
 	- [@ancoar](https://github.com/ancoar)
 	- [@roseveltBarahona](https://github.com/roseveltBarahona)
-- Tecnologia: JS, Nodejs, HTML5, CSS3, Node.js, Electron, Pillarsjs...
+- Tecnología: JS, Nodejs, HTML5, CSS3, Node.js, Electron, Pillarsjs...
 - Estado del proyecto: Funcionando, en desarrollo
 - Repositorios:
 	- [GingerCode/gingercode.org](https://github.com/GingerCode/gingercode.org), Landing informativa y demo del proyecto.
