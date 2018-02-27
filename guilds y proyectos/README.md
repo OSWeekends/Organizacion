@@ -1,123 +1,108 @@
-# Guilds y Proyectos
+# Guilds
+> Queremos que el mundo sea más abierto y colaborativo a traves de la cultura libre. Por ello empoderamos a las personas y los equipos haciendo más facil la creacion colectiva, gracias a un sistema de formación y desarrollo para guilds.
 
-## Información General
+OSW es una organización que quiere hacer realidad proyectos Open Source de todo tipo con personas del mundo de la tecnología y otras áreas. Para ello fomentamos la creación de Guilds, que son equipos especializados que trabajan en torno a proyectos para lograr llevar a cabo la idea de hacer un mundo más libre. 
 
-### ¿Qué es un guild (gremio)?
+Lo que aportamos a los Guilds: 
 
-Es un grupo de personas apasionadas que se junta entorno a un proyecto/s.
+- Un equipo de gestión que te ayudará en todo lo que necesites, el **MetaGuild**
+- Un plan de desarrollo individual y de equipo para mejorar habilidades técnicas, de gestión de proyectos y *empowerment skills* (comunicación, pensamiento creativo, team work, desarrollo personal y profesional...)
+- Todos los recursos técnicos necesarios (cloud, repositorios, infraestructura...) y guías de trabajo para arrancar y desarrollar un proyecto Open Source desde cero
+- La gamificación de la experiencia de ser Guilder
+- Apoyo de mentoría y coaching 
 
-Colaboran juntos para lograr que el proyecto llegue a buen puerto.
+**...y mucho más que iremos construyendo gracias a tí! ;)**
+
+> Queremos hacer que todo el mundo acceda más fácilmente a la comunidad Open Source y hacer posible que los contributors de hoy sean los líderes del futuro. 
+
+## Guilds
+
+### ¿Qué es un Guild?
+
+Es un grupo de personas apasionadas que se unen en equipo entorno a un proyecto/s Open Source. 
+
+Colaboran juntos para lograr que el proyecto se finalice y tenga éxito.
 
 
-### ¿Qué se entiende por proyecto?
-
-Un proyecto es la puesta en marcha de una idea.
-
-Los proyectos que apoya OSW cuenta con recursos como repositorios, subdominios, cloud, etc...
-
-Y como todo en OSW... deberán ser Open Source, legales, éticos y sin ánimo de lucro.
-
-### ¿Qué roles tenemos ahora?
+### ¿Qué roles hay en un Guild?
 
 **Contributors**
-- Aportan de diversas formas al proyecto: código, documentación, arte...
+- Forman parte del Guild y colaboran activamente en el desarrollo del proyecto aportando código, documentación, arte...
+- Tienen un rol fundamental a la hora de aportar ideas, impulso, asumir resposabilidades...
 
-**Leaders**
-- Además de ser contributor
-- Recluta al equipo
+**Líder**
+- Además de tener las responsabilidades de un contributor, organizan y facilitan que el Guild se desarrolle y crezca
 - Promociona el proyecto
-- Motivan al *Guild*
-- Gestiona los recursos junto a la organización de OSW.
+- Motivan a los miembros del Guild
+- Gestionan los recursos junto a la organización de OSW.
 
+### Quiero ser contributor de un Guild
+
+> En OSW creemos que contribuir está al alcance de todo el mundo y que no siempre tiene que ser a través de código. Existen muchas formas de contribuir, ¡encuentra la tuya!.
+
+Lo más sencillo suele ser presentarse en el canal de slack de los [Guilds](http://invitations-osweekends.herokuapp.com/) y te ayudaremos con todo. 
+
+### Quiero liderar un Guild
+
+> En OSW creemos que dentro de cada persona existe un líder natural capaz de guiar a su Guild hasta terminar el proyecto.
+
+Lo más sencillo es buscar un proyecto que no tenga líderes por el momento y ofrecerte a liderarlo. Aunque empezar un proyecto desde cero también puede ser muy divertido. 
+
+Desde la organización podemos ayudarte mucho a crear un Guild y a gestionarlo [¡Contactanos!](https://github.com/OSWeekends/Organizacion#contactar-con-la-organización).
+
+### Guilds y miembros
+
+Estamos desarrollando la fase 2 de la web de [guilds.osweekends.com](http://osweekends.com/guilds.osweekends.com/) donde podrás encontrar de manera sencilla qué Guilds existen, qué miembros hay, qué proyectos están desarrollando, nivel/experiencia, fase de desarrollo...
+
+De momento, clickea en **[Quiero ser Guilder](http://osweekends.com/guilds.osweekends.com/)** y únete con tu usuario de GitHub!
 
 ## Proyectos
 
-### ¿Cómo unirse/participar?
+### ¿Qué se entiende por proyecto?
 
-Cada proyecto o conjuntos de proyectos (organización) es distinto, por lo general cada proyecto corresponde a un repositorio de Github, pero en algunos casos puede ser que el proyecto original sea muy grande y deba organizarse en varios repositorios. En cuyo caso se organizarán a través de una organización de Github con sus propios repositorios.
+Un proyecto es la puesta en marcha de una idea sobre la que trabaja un Guild. 
+OSW, al impulsar y apoyar este tipo de proyectos, pone a la disposición de los Guilds repositorios, subdominios, cloud...y muchos otros recursos!
 
-Por lo general cada proyecto cuenta además con un canal de Slack ([invitaciones aquí](http://invitations-osweekends.herokuapp.com/)) donde ponder organizarlo todo de una forma más efectiva. 
+**REVISA EL [LISTADO](https://github.com/OSWeekends/Guilds/blob/master/Listado%20Guilds.md) DE NUESTROS GUILDS PARA UNIRTE!** 
 
-**Quiero unirme al guild (ser contributor)**
+### ¿Y cómo propongo un proyecto?
 
-> En OSW creemos que contribuir está al alcance de todos y que no siempre tiene que ser a través de código. Existen muchas de contribuir, ¡Encuentra la tuya!.
+> Como todo en OSW, los proyectos son Open Source, legales, éticos y sin ánimo de lucro.
 
-Lo más sencillo suele ser presentarse en el canal del proyecto en Slack y hablar con tu futuro guild. Si el proyecto carece de canal, siempre puedes [abrir un issue](https://guides.github.com/features/issues/) en su repositorio principal y pedir que te guíen.
+El proceso es muy sencillo. [Contáctanos](https://github.com/OSWeekends/Organizacion#contactar-con-la-organización), te ayudaremos a difundirlo y te facilitaremos recursos (subdominios, máquinas (cloud), expertos, publicidad, etc..). ¿Muy fácil, no? :-)
 
-**Quiero liderar un proyecto**
+Necesitaremos una serie de info previa a la creación del Guild, que comentaremos entre tú, tu equipo y el MetaGuild: 
+- Nombre del Guild y temática que os une
+- Proyecto(s) que queréis desarrollar
+- Problema encontrado y oportunidad para mejorar
+- ¿Cómo vais a desarrollar el proyecto? Fases? Lenguaje, tools, etc? 
+- Miembros Guild: líder, co-líder(es), contributors - **nombres Github/Slack, nivel/experiencia**
+- Necesidades de colaboración: buscas Guilders para tu Guild? 😎
 
-> En OSW creemos que dentro de cada persona existe un líder natural capaz de guiar a su guild hasta terminar el proyecto
+## Recursos de los Guilds  
 
-Lo más sencillo es buscar un proyeto que no tenga líderes por el momento y ofrecerte a liderarlo. Aunque empezar un proyecto desde cero también puede ser muy divertido.
+> Hemos creado unas guías de trabajo y vídeos que se darán en el pack de Onboarding una vez crees tu Guild o te unas a uno ;)
 
-Desde la organización podemos ayudarte mucho a crear un buen guild y a gestionar recursos, [¡Contactanos!](../README.md#contactar-con-la-organización)
+Desde el MetaGuild proponemos funcionar con Scrum nivel básico y cómo lo aplicamos en GitHub - *issues, milestones, backlogs...*. Tendrás acceso a las guías de trabajo para aprender de manera sencilla cómo arrancar tu Guild y proyecto, y empezar a funcionar! 
 
-### ¿Cómo propongo un proyecto?
+Por supuesto que podréis funcionar con las herramientas y metodologías que entre tu equipo decidáis. Nos encantará que compartáis vuestros recursos con el MetaGuild. 
 
-> Como todo en OSW... los proyectos deberán ser Open Source, legales, éticos y sin ánimo de lucro.
+### Workshops Plan de formación 
 
-El proceso es muy sencillo. [Contactanos](../README.md#contactar-con-la-organización), te ayudaremos a difundirlo y te facilitaremos recursos (subdominios, máquinas (cloud), expertos, publicidad, etc..). ¿Muy fácil, no? :-)
+Al margen de todo esto podemos encontrar todas las sesiones de formación impartidas para los Guilds *aquí*
 
-### Proyectos propios
+### Herramientas
 
-A día de hoy Open Source Weekends cuenta con 3 organizaciones en Github ([OSWeekends](https://github.com/OSWeekends), [GoblinDB](https://github.com/GoblinDBRocks) y [GingerCode](https://github.com/GingerCode)), cada una de ellas se organiza de forma independiente.
+A cada proyecto le corresponde un repositorio. En algunos casos, si el proyecto original es muy grande, deberá organizarse en sus propios repositorios a través de una organización de Github. 
 
-
-#### [Organización: OSWeekends](https://github.com/OSWeekends)
-
-TBD
-
-#### [Organización: GoblinDB](https://github.com/GoblinDBRocks)
-
-An amazing, simple and fun database for humans
-
-- [Web](http://goblindb.org)
-- Canal de Slack: #proyecto-goblindb
-- Guild Leader/s: 
-	- [@UlisesGascon](https://github.com/UlisesGascon)
-	- [@codingCarlos](https://github.com/codingCarlos)
-- Guild Members (Contributors):
-	- [@phegraphic](https://github.com/phegraphic)
-	- [@Bifuer](https://github.com/bifuer)
-	- [@Josheriff](https://github.com/Josheriff)
-	- [@Lilxelo](https://github.com/lilxelo)
-	- [@LeylaVieira](https://github.com/LeylaVieira)
-	- [@ancoar](https://github.com/ancoar)
-- Tecnología: JS, Nodejs...
-- Estado del proyecto: Funcionando, en desarrollo
-- Repositorios:
-	- [GoblinDBRocks/GoblinDB](https://github.com/GoblinDBRocks/GoblinDB), Fear the Goblin! - An amazing, simple and fun database for humans
-	- [GoblinDBRocks/GoblinDBRocks.github.io](https://github.com/GoblinDBRocks/GoblinDBRocks.github.io), GoblinDB website
-	- [GoblinDBRocks/Art](https://github.com/GoblinDBRocks/Art), Branding, Art...
-
-
-#### [Organización: GingerCode](https://github.com/GingerCode)
-
-Un sistema de aprendizaje sencillo para todos, ¡cualquiera puede aprender a programar!
-
-- [Web](http://gingercode.org)
-- Canal de Slack: #proyecto-ginger-code
-- Guild Leader/s: 
-	- [@Bifuer](https://github.com/bifuer)
-	- [@Josheriff](https://github.com/Josheriff)
-	- [@Lilxelo](https://github.com/lilxelo)
-	- [@codingCarlos](https://github.com/codingCarlos)
-	- [@UlisesGascon](https://github.com/UlisesGascon)
-- Guild Members (Contributors):
-	- [@sergormo](https://github.com/sergormo)
-	- [@LeylaVieira](https://github.com/LeylaVieira)
-	- [@ancoar](https://github.com/ancoar)
-	- [@roseveltBarahona](https://github.com/roseveltBarahona)
-- Tecnología: JS, Nodejs, HTML5, CSS3, Node.js, Electron, Pillarsjs...
-- Estado del proyecto: Funcionando, en desarrollo
-- Repositorios:
-	- [GingerCode/gingercode.org](https://github.com/GingerCode/gingercode.org), Landing informativa y demo del proyecto.
-	- [GingerCode/Ejercicios](https://github.com/GingerCode/Ejercicios), Ejercicios para aprender a programar con Ginger! :-)
-	- [GingerCode/GingerParser](https://github.com/GingerCode/GingerParser), Core de GingerCode, disponible en NPM.
-	- [GingerCode/Desktop-Client](https://github.com/GingerCode/Desktop-Client), GingerCode Desktop aplications
-	- [GingerCode/Art](https://github.com/GingerCode/Art), Branding, Logos, etc...
+Por lo general cada proyecto cuenta además con un canal de Slack ([invitaciones aquí](http://invitations-osweekends.herokuapp.com/)) donde poder organizarlo todo de una forma más efectiva. **El canal del Guild lo crearán desde el MetaGuild una vez nos hayas comentado de qué va tu Guild y qué proyectos queréis desarrollar (*mirar info más arriba*)** 
 
 
 
-### Proyectos ajenos/contribuciones
-TBD
+
+
+
+
+ 
+
+
