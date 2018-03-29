@@ -11,7 +11,7 @@ Todo esto surgió en verano 2016 cuando tres desarrolladores, que se conocieron 
 Las características de su grupo empaparían a la comunidad que crearon meses más tarde, en Noviembre 2016, y que ha ido creciendo exponencialmente hasta convertirse en un ecosistema de unas casi 2.000* personas (*en Feb. 2018) y que a pesar de la cantidad de asistentes que tiene (evento de Febrero 2018: 260 personas) crece manteniendo la esencia con la que surgió, el amor por el Open Source.  
 
 ## Organización
-Repositorio para gestionar detalles de la organizacion
+Este repositorio para gestionar detalles de la organización e info general 
 
 ### Contactar con la organización
 
@@ -25,7 +25,7 @@ Ya sea en los eventos que [organiza la comunidad](https://www.meetup.com/es-ES/O
 
 Puedes unirte en nuestro Slack desde este [link](http://invitations-osweekends.herokuapp.com/). Por lo general estamos siguiendo los hilos en los principales canales, pero puedes contactarnos por mensajes privados o mencionarnos en cualquiera de los canales.
 
-Usuarios:
+Co-fundadores: 
 - Borja (@borjagodoy)
 - Carlos (@codingcarlos)
 - Jose (@josheriff)
