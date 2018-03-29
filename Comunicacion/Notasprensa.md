@@ -19,3 +19,13 @@ OSW es una comunidad que promueve el intercambio de conocimiento y la colaboraci
 Además de las 1800 personas que se han unido a la comunidad desde sus inicios, muchas otras comunidades se han hermanado con OSW para impulsar la colaboración, sinergias y apoyo entre ellas. Así han conseguido crear un ecosistema alrededor de la Cultura Open Source fundamentado en el desarrollo de proyectos con impacto social desde áreas como la agricultura, la educación...hasta los datos abiertos, Blockchain y ciberseguridad.
 
 La comunidad siempre está abierta y es inclusiva con todo tipo de perfiles, tanto por sector como por nivel de conocimientos. Muchas mujeres del mundo tecnológico y de otros sectores han encontrado en OSW un espacio en el que aprender y crecer como profesionales, lo cual ha nacido de manera orgánica al existir libertad y respeto hacia tod@s, nunca predeterminado ni forzado por los miembros de la organización, lo que añade más autenticidad a todo lo que surge alrededor del tema de la diversidad e inclusión.  
+
+
+[*v.m. english*]
+
+OSW embodies the share of knowledge and collaboration within members, being the aim of the community since it was born. One of the founders, Jose, was the Campus Madrid’s security lead but he always wanted to become a developer. When he met Carlos and Ulises at Campus, he also found great mentors and companions for transforming along his life. Specially when they came together for rising a community that represented their life and work values. 
+
+With an emphasis on face-to-face collaboration with other tech communities, Open Source Weekends massively increased their network thanks Campus, growing the community from 100 to more than 1,800 people. This is how they boost an ecosystem around Open Source Culture,
+based on the development of social impact' projects in areas such as agriculture, education, Open Data, Blockchain and Cybersecurity, among others. 
+
+OSW is open and inclusive with any kind of profiles, regardless the industry or the technical knowledge degree. Women in tech and other industries have found that OSW provides with an open environment where to learn and grow as professionals, thanks to the organic and authentic support of all members of the community that depict freedom and respect for everybody. This is perceived as genuine and reliable when it comes to talk about diversity and inclusiveness. 
