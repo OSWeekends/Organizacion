@@ -12,5 +12,10 @@ Todo esto surgió en verano 2016 cuando tres desarrolladores, que se conocieron 
 Las características de su grupo empaparían a la comunidad que crearon meses más tarde, en Noviembre 2016, y que ha ido creciendo exponencialmente hasta convertirse en un ecosistema de unas casi 2.000* personas (*en Feb. 2018) y que a pesar de la cantidad de asistentes que tiene (evento de Febrero 2018: 260 personas) crece manteniendo la esencia con la que surgió, el amor por el Open Source.  
 
 
+[*v.m.*]
 
- 
+OSW es una comunidad que promueve el intercambio de conocimiento y la colaboración, y eso se gestó desde su creación. Uno de los fundadores, Jose, era jefe del equipo de seguridad de Campus y siempre quiso convertirse en desarrollador. Al conocer a Carlos y Ulises en Campus, encontró a grandes mentores con los que transformar su vida, especialmente al crear juntos una comunidad que representara sus valores. 
+
+Además de las 1800 personas que se han unido a la comunidad desde sus inicios, muchas otras comunidades se han hermanado con OSW para impulsar la colaboración, sinergias y apoyo entre ellas. Así han conseguido crear un ecosistema alrededor de la Cultura Open Source fundamentado en el desarrollo de proyectos con impacto social desde áreas como la agricultura, la educación...hasta los datos abiertos, Blockchain y ciberseguridad.
+
+La comunidad siempre está abierta y es inclusiva con todo tipo de perfiles, tanto por sector como por nivel de conocimientos. Muchas mujeres del mundo tecnológico y de otros sectores han encontrado en OSW un espacio en el que aprender y crecer como profesionales, lo cual ha nacido de manera orgánica al existir libertad y respeto hacia tod@s, nunca predeterminado ni forzado por los miembros de la organización, lo que añade más autenticidad a todo lo que surge alrededor del tema de la diversidad e inclusión.  
