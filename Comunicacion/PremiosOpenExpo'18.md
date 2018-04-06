@@ -15,4 +15,4 @@ La complejidad que conlleva gestionar y desarrollar proyectos Open Source con m�
 
 La comunidad siempre está abierta y es inclusiva con todo tipo de perfiles, tanto por sector como por nivel de conocimientos. Muchas mujeres del mundo tecnológico y de otros sectores han encontrado en OSW un espacio en el que aprender y crecer como profesionales, lo cual ha nacido de manera orgánica al existir libertad y respeto hacia tod@s, nunca predeterminado ni forzado por los miembros de la organización, lo que añade más autenticidad a todo lo que surge alrededor del tema de la diversidad e inclusión.  
 
-
+Estamos especialmente orgullos@s de haber recibido el premio a la Mejor Comuindad Tecnológica 2017 en el Open Expo Awards, lo cual nos dio un súper impulso para continuar con nuestra misión de hacer la Cultura Libre accesible para tod@s.  
