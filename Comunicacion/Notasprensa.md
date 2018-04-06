@@ -22,7 +22,7 @@ Además de las 1800 personas que se han unido a la comunidad desde sus inicios, 
 La comunidad siempre está abierta y es inclusiva con todo tipo de perfiles, tanto por sector como por nivel de conocimientos. Muchas mujeres del mundo tecnológico y de otros sectores han encontrado en OSW un espacio en el que aprender y crecer como profesionales, lo cual ha nacido de manera orgánica al existir libertad y respeto hacia tod@s, nunca predeterminado ni forzado por los miembros de la organización, lo que añade más autenticidad a todo lo que surge alrededor del tema de la diversidad e inclusión.  
 
 
-[*v.m. english*]
+### Versión mediana inglés
 
 OSW embodies the share of knowledge and collaboration within members, being the aim of the community since it was born. One of the founders, Jose, was the Campus Madrid’s security lead but he always wanted to become a developer. When he met Carlos and Ulises at Campus, he also found great mentors and companions for transforming along his life. Specially when they came together for rising a community that represented their life and work values. 
 
