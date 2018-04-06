@@ -2,13 +2,16 @@
 
 ### Versión final
 
-OSW es una comunidad tecnológica abierta a todo tipo de perfiles que se caracteriza por su dedicación a desarrollar proyectos que tengan impacto social, transmitir conocimiento y en la inclusión de todas las personas que les interese unirse.
+OSW es una comunidad tecnológica abierta a todo tipo de perfiles que se caracteriza por su dedicación a desarrollar proyectos Open Source que tengan impacto social, transmitir conocimiento y por la inclusión de todas las personas que les interese unirse.
 
 La comunidad nació en Noviembre 2016 y ha ido creciendo exponencialmente hasta convertirse en un ecosistema de unas 2.300 personas (*abril 2018*) y que a pesar de la cantidad de asistentes que tiene (media eventos 2018: 260 personas) crece manteniendo la esencia con la que surgió, el amor por el Open Source.   
 
-La relación entre l@s miembr@s de la comunidad se fomenta por el intercambio de conocimiento y especialmente por juntarnos en equipos de trabajo alrededor de ideas que nos motiven para convertirlas en proyectos reales con impacto social y que todo el mundo pueda acceder a ellos, ¡esa es nuestra aportación a la comunidad Open Source! 
+La relación entre l@s miembr@s de la comunidad se fomenta no solo gracias a los encuentros mensuales que van más allá de dar charlas y escuchar, sino que el intercambio de conocimiento y el apoyo mutuo que favorece el desarrollo profesional de tod@s es el ingrediente clave en el ecosistema que se crea alrededor de Open Source Weekends. 
 
-Esos equipos son nuestros Guilds 
+Los equipos de gente apasionada que desarrollan proyectos Open Source son nuestros Guilds, que en la actualidad tienen aprox unos 30 proyectos en marcha en áreas como la salud, educación, agricultura y sostenibilidad, datos abiertos, Blockchain, ciberseguridad...entre otros, ¡y estamos súper orgullos@s de que esa sea nuestra aportación a la comunidad Open Source! 
+
+
+
 
 
 ### Versión  larga
