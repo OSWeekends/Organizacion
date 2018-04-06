@@ -9,7 +9,7 @@ La relación entre l@s miembr@s de la comunidad se fomenta no solo gracias a los
 
 Sin embargo no nos quedamos ahí ;). Nos encanta juntarnos en equipos de trabajo alrededor de ideas que nos motiven para convertirlas en proyectos reales con impacto social y que todo el mundo pueda acceder a ellos, ¡esa es nuestra aportación a la comunidad Open Source! 
 
-Esos equipos son nuestros Guilds, compuestos por perfiles muy diferentes y que a su vez crean una unidad complementaria que desarrollan proyectos en áreas como la agricultura, la educación...hasta los datos abiertos, Blockchain y ciberseguridad.  
+Esos equipos son nuestros [Guilds](https://openexpoeurope.com/es/entrevista-teba-gomez-embajadora-osw-guilds/), compuestos por perfiles muy diferentes y que a su vez crean una unidad complementaria que desarrollan proyectos en áreas como la agricultura, la educación...hasta los datos abiertos, Blockchain y ciberseguridad.  
 
 La complejidad que conlleva gestionar y desarrollar proyectos Open Source con más de 100 *Guilders* involucrad@s se solventa gracias a un plan de formación abierto a tod@s para aprender a desarrollar proyectos (a nivel técnico y de personas), mucha mentoría y apoyo de l@s Seniors de la comunidad, y especialmente por la ilusión de formar parte de algo más grande.   
 
