@@ -12,6 +12,13 @@ Los equipos de gente apasionada que desarrollan proyectos Open Source son nuestr
 
 La comunidad está abierta y es inclusiva con todos los perfiles, tanto por sector como por nivel de conocimientos. Muchas mujeres del mundo tecnológico y de otros sectores han encontrado en OSW un espacio en el que aprender y crecer como profesionales, lo cual ha nacido de manera orgánica al existir libertad y respeto hacia tod@s. 
 
+Si quieres conocernos mejor: 
+- Web: https://osweekends.com/
+- Slack: https://slack.osweekends.com/
+- Meetup: https://meetup.osweekends.com/
+- Github: https://github.com/osweekends
+- Twitter: https://twitter.com/os_weekends
+
 
 ### Versión  larga
 
