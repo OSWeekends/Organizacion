@@ -1,5 +1,6 @@
 # Open Source Weekends 
-[*v.l.*]
+
+### Versión larga
 
 OSW es una comunidad tecnológica abierta a todo tipo de perfiles que se caracteriza por su dedicación en desarrollar proyectos que tengan impacto social, transmitir conocimiento y en la inclusión de todas las personas que les interese unirse.
 
@@ -12,7 +13,7 @@ Todo esto surgió en verano 2016 cuando tres desarrolladores, que se conocieron 
 Las características de su grupo empaparían a la comunidad que crearon meses más tarde, en Noviembre 2016, y que ha ido creciendo exponencialmente hasta convertirse en un ecosistema de unas casi 2.000* personas (*en Feb. 2018) y que a pesar de la cantidad de asistentes que tiene (evento de Febrero 2018: 260 personas) crece manteniendo la esencia con la que surgió, el amor por el Open Source.  
 
 
-[*v.m.*]
+### Versión mediana
 
 OSW es una comunidad que promueve el intercambio de conocimiento y la colaboración, y eso se gestó desde su creación. Uno de los fundadores, Jose, era jefe del equipo de seguridad de Campus y siempre quiso convertirse en desarrollador. Al conocer a Carlos y Ulises en Campus, encontró a grandes mentores con los que transformar su vida, especialmente al crear juntos una comunidad que representara sus valores. 
 
