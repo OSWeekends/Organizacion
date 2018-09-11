@@ -29,6 +29,7 @@ Co-fundadores:
 - Borja (@borjagodoy)
 - Carlos (@codingcarlos)
 - Jose (@josheriff)
+- Theba (@kooltheba)
 - Ulises (@ulisesGascon)
 
 **Email**
