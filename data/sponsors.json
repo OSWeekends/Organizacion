@@ -1,41 +1,51 @@
 [{
     "url": "https://www.fictizia.com/",
     "image_url": "https://osw.netlify.com/img/sponsor/fictizia-logo.svg",
+    "imgLocalName" : "fictizia.svg",
     "name": "Fictizia"
 }, {
     "url": "https://hiwook.com/",
     "image_url": "https://hiwook.com/wp-content/uploads/2016/03/hiwook-logo.png",
+    "imgLocalName" : "hiwook.png",
     "name": "Hiwook"       
 },{
     "url": "https://www.ovh.es/",
     "image_url": "https://osw.netlify.com/img/sponsor/ovh-logo.png",
+    "imgLocalName" : "ovh.png",
     "name": "OVH"
 }, {
     "url": "https://developers.google.com/",
     "image_url": "https://cdn.worldvectorlogo.com/logos/google-developers.svg",
+    "imgLocalName" : "google-developers.png",
     "name": "Google Developers"
 }, {
     "url": "https://github.com/",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/GitHub_logo_2013_padded.svg/1280px-GitHub_logo_2013_padded.svg",
+    "imgLocalName" : "github.png",
     "name": "Github"
 }, {
     "url": "https://education.github.com/",
     "image_url": "https://s3.amazonaws.com/media-p.slid.es/uploads/479298/images/4224291/wordmark-b2322266c45ea75318d0ea4481ab3c0aaa587af433ead331ba0ec402ad79fde9.svg",
+    "imgLocalName" : "github-ed.png",
     "name": "Github for Education"
 }, {
     "url": "https://www.tetuanvalley.com/",
     "image_url": "https://osw.netlify.com/img/sponsor/tetuan-valley-logo.png",
+    "imgLocalName" : "tetuan-valley.png",
     "name": "Tetuan Valley"
 }, {
     "url": "http://tecnicrea.es/",
     "image_url": "https://osw.netlify.com/img/sponsor/tecnicrea-logo.png",
+    "imgLocalName" : "tecnicrea.png",
     "name": "Tecnicrea"
 }, {
     "url": "http://pillarsjs.com/",
     "image_url": "https://osw.netlify.com/img/sponsor/pillarsJS-logo.svg",
+    "imgLocalName" : "pillars.svg",
     "name": "Pillarsjs"
 }, {
     "url": "https://www.slowlifeglamping.com/",
     "image_url": "https://s3.amazonaws.com/media-p.slid.es/uploads/479298/images/4344381/logo_master_texto.svg",
+    "imgLocalName" : "slowlife.png",
     "name": "Slowlife Glamping"
 }]
