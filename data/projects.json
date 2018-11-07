@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Ginger Code",
+    "description": "Un sistema de aprendizaje sencillo para todos, ¡cualquiera puede aprender a programar!",
+    "img": "https://pbs.twimg.com/profile_images/905331449351548928/NqbTMQez_400x400.jpg",
+    "imgLocalName": "ginger.png",
+    "website": "",
+    "github": "https://github.com/GingerCode"
+  },
+  {
+    "title": "GoblinDB",
+    "description": "Fear the Goblin! - An amazing, simple and fun database for humans",
+    "img": "https://pbs.twimg.com/profile_images/905881667717431296/g-8ldvWt_400x400.jpg",
+    "imgLocalName": "goblin.jpg",
+    "website": "http://goblindb.osweekends.com/",
+    "github": "https://github.com/GoblinDBRocks/GoblinDB"
+  },
+  {
+    "title": "Pillars",
+    "description": "Pillars.js is a modular framework for web development in Node.js",
+    "img": "https://pbs.twimg.com/profile_images/555082679066951680/AZ3d0-8Q_400x400.png",
+    "imgLocalName": "pillars.png",
+    "website": "http://pillarsjs.com/",
+    "github": "https://github.com/pillarsjs/pillars"
+  }
+]
