@@ -4,6 +4,16 @@
     "imgLocalName" : "fictizia.svg",
     "name": "Fictizia"
 }, {
+    "url": "https://www.intelygenz.software/",
+    "image_url": "https://github.com/OSWeekends/Organizacion/raw/master/other/sponsors_logos/intelygenz.png",
+    "imgLocalName" : "intelygenz.png",
+    "name": "Intelygenz"  
+}, {
+    "url": "https://www.intelygenz.software/",
+    "image_url": "https://github.com/OSWeekends/Organizacion/raw/master/other/sponsors_logos/intelygenz_software.png",
+    "imgLocalName" : "intelygenz_software.png",
+    "name": "Intelygenz Software"  
+}, {
     "url": "https://hiwook.com/",
     "image_url": "https://hiwook.com/wp-content/uploads/2016/03/hiwook-logo.png",
     "imgLocalName" : "hiwook.png",
