@@ -113,7 +113,7 @@
       "slug": "guild_ideas",
       "avatar": "https://api.adorable.io/avatars/285/kurtgerm",
       "slack_channel": "guild_ideas",
-      "github_repo": false, 
+      "github_repo": "", 
       "github_org": "OSWeekends",
       "description": "Guild con dos objetivos: por un lado, pretende formar a los perfiles más junior de OSW y por otro, generar una aplicación web para la gestión de las propuestas que se dan dentro de esta comunidad.",
       "isActive": true,
