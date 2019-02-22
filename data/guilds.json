@@ -100,8 +100,8 @@
 {
       "name": "Guild Hacker Space",
       "slug": "guild_hacker_space",
-      "avatar": "https://drive.google.com/file/d/1CuL6CKF5IfUKdoiDEE1HW42rfIt2-dU0/view?usp=sharing",
-      "slack_channel": "",
+      "avatar": "https://api.adorable.io/avatars/285/kurtgerm",
+      "slack_channel": false,
       "github_repo": "", 
       "github_org": "OSWeekends",
       "description": "Proyecto para montar un espacio físico donde materializar nuestros proyectos, especialmente a nivel de Hardware. ",
@@ -111,7 +111,7 @@
 {
       "name": "Guild Ideas",
       "slug": "guild_ideas",
-      "avatar": "https://api.adorable.io/avatars/285/kurtgerm",
+      "avatar": "https://drive.google.com/file/d/1CuL6CKF5IfUKdoiDEE1HW42rfIt2-dU0/view?usp=sharing",
       "slack_channel": "guild_ideas",
       "github_repo": "", 
       "github_org": "OSWeekends",
