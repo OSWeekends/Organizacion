@@ -1,7 +1,7 @@
 [{
       "name": "Guild 24",
       "slug": "guild_24",
-      "avatar": "https://api.adorable.io/avatars/285/kurtgerm",
+      "avatar": "http://welcome.osweekends.com/images/osw.svg",
       "slack_channel": "guild24",
       "github_repo": "", 
       "github_org": "OSWeekends",
@@ -12,7 +12,7 @@
 {
       "name": "Guild Adalabers",
       "slug": "guild_adalabers",
-      "avatar": "https://api.adorable.io/avatars/285/kurtgerm",
+      "avatar": "hhttp://welcome.osweekends.com/images/osw.svg",
       "slack_channel": "adalabers",
       "github_repo": "", 
       "github_org": "OSWeekends",
@@ -23,7 +23,7 @@
 {
       "name": "Guild de Agricultura y Sostenibilidad",
       "slug": "guild_agricultura_sostenibilidad",
-      "avatar": "https://api.adorable.io/avatars/285/kurtgerm",
+      "avatar": "http://welcome.osweekends.com/images/osw.svg",
       "slack_channel": "guild-agricultura",
       "github_repo": "OSWeekends/agricultura-sostenible",
       "github_org": "OSWeekends",
@@ -34,7 +34,7 @@
 {
       "name": "Guild Arte Interactivo y Programación Creativa",
       "slug": "guild_arte_interactivo",
-      "avatar": "https://api.adorable.io/avatars/285/kurtgerm",
+      "avatar": "http://welcome.osweekends.com/images/osw.svg",
       "slack_channel": "guild_inter_art",
       "github_repo": "OSWeekends/arte-interactivo",
       "github_org": "OSWeekends",
@@ -45,7 +45,7 @@
 {
       "name": "Guild Blockchain",
       "slug": "guild_blockchain",
-      "avatar": "https://api.adorable.io/avatars/285/kurtgerm",
+      "avatar": "http://welcome.osweekends.com/images/osw.svg",
       "slack_channel": "guild_blockchain",
       "github_repo": "",
       "github_org": "OSWeekends",
@@ -56,7 +56,7 @@
 {
       "name": "Guild cRUSTáceos",
       "slug": "guild_crustaceos",
-      "avatar": "https://api.adorable.io/avatars/285/kurtgerm",
+      "avatar": "http://welcome.osweekends.com/images/osw.svg",
       "slack_channel": "guild_crustaceans",
       "github_repo": "",
       "github_org": "OSWeekends",
@@ -67,7 +67,7 @@
 {
       "name": "Guild Cybersecurity",
       "slug": "guild_cybersecurity",
-      "avatar": "https://api.adorable.io/avatars/285/kurtgerm",
+      "avatar": "http://welcome.osweekends.com/images/osw.svg",
       "slack_channel": "guild_cibersecurity",
       "github_repo": "",
       "github_org": "OSWeekends",
@@ -78,7 +78,7 @@
 {
       "name": "Guild Diseño",
       "slug": "guild_diseño",
-      "avatar": "https://api.adorable.io/avatars/285/kurtgerm",
+      "avatar": "http://welcome.osweekends.com/images/osw.svg",
       "slack_channel": "design_guild",
       "github_repo": "",
       "github_org": "OSWeekends",
@@ -100,7 +100,7 @@
 {
       "name": "Guild Hacker Space",
       "slug": "guild_hacker_space",
-      "avatar": "https://api.adorable.io/avatars/285/kurtgerm",
+      "avatar": "http://welcome.osweekends.com/images/osw.svg",
       "slack_channel": false,
       "github_repo": "", 
       "github_org": "OSWeekends",
@@ -122,7 +122,7 @@
 {
       "name": "Guild Kids",
       "slug": "guild_kids",
-      "avatar": "https://api.adorable.io/avatars/285/kurtgerm",
+      "avatar": "http://welcome.osweekends.com/images/osw.svg",
       "slack_channel": "guild_kids",
       "github_repo": "", 
       "github_org": "OSWeekends",
@@ -133,7 +133,7 @@
 {
       "name": "Guild Legal",
       "slug": "guild_legal",
-      "avatar": "https://api.adorable.io/avatars/285/kurtgerm",
+      "avatar": "http://welcome.osweekends.com/images/osw.svg",
       "slack_channel": "guild-legal",
       "github_repo": "", 
       "github_org": "OSWeekends",
@@ -144,7 +144,7 @@
 {
       "name": "Guild Newbies",
       "slug": "guild_newbies",
-      "avatar": "https://api.adorable.io/avatars/285/kurtgerm",
+      "avatar": "http://welcome.osweekends.com/images/osw.svg",
       "slack_channel": "01-oswguilds",
       "github_repo": "", 
       "github_org": "OSWeekends",
@@ -166,7 +166,7 @@
 {
       "name": "Guild Open Hardware",
       "slug": "guild_open_hardware",
-      "avatar": "https://api.adorable.io/avatars/285/kurtgerm",
+      "avatar": "http://welcome.osweekends.com/images/osw.svg",
       "slack_channel": "guild-open-hardware",
       "github_repo": "", 
       "github_org": "OSWeekends",
@@ -177,7 +177,7 @@
 {
       "name": "Guild ROL Gaming",
       "slug": "guild_rol_gaming",
-      "avatar": "https://api.adorable.io/avatars/285/kurtgerm",
+      "avatar": "http://welcome.osweekends.com/images/osw.svg",
       "slack_channel": false,
       "github_repo": "", 
       "github_org": "OSWeekends",
@@ -188,7 +188,7 @@
 {
       "name": "Guild Salud",
       "slug": "guild_salud",
-      "avatar": "https://api.adorable.io/avatars/285/kurtgerm",
+      "avatar": "http://welcome.osweekends.com/images/osw.svg",
       "slack_channel": "guild-salud",
       "github_repo": "", 
       "github_org": "OSWeekends",
@@ -199,7 +199,7 @@
 {
       "name": "Guild Sistemas",
       "slug": "guild_sistemas",
-      "avatar": "https://api.adorable.io/avatars/285/kurtgerm",
+      "avatar": "http://welcome.osweekends.com/images/osw.svg",
       "slack_channel": "guild-sistemas",
       "github_repo": "OSWeekends/goku-team", 
       "github_org": "OSWeekends",
