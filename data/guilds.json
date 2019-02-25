@@ -12,7 +12,7 @@
 {
       "name": "Guild Adalabers",
       "slug": "guild_adalabers",
-      "avatar": "hhttp://welcome.osweekends.com/images/osw.svg",
+      "avatar": "http://welcome.osweekends.com/images/osw.svg",
       "slack_channel": "adalabers",
       "github_repo": "", 
       "github_org": "OSWeekends",
@@ -236,7 +236,7 @@
       "slack_channel": false,
       "github_repo": "", 
       "github_org": "OSWeekends",
-      "description": "> Guild del grupo de trabajo que gestiona, ayuda y facilita el desarrollo de los otros Guilds, infraestructura...",
+      "description": "Guild del grupo de trabajo que gestiona, ayuda y facilita el desarrollo de los otros Guilds, infraestructura...",
       "isActive": true,
       "website": ""
 }]
