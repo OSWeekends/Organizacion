@@ -2,12 +2,7 @@
     "url": "https://www.fictizia.com/",
     "image_url": "https://osw.netlify.com/img/sponsor/fictizia-logo.svg",
     "imgLocalName" : "fictizia.svg",
-    "name": "Fictizia"
-}, {
-    "url": "https://www.intelygenz.software/",
-    "image_url": "https://github.com/OSWeekends/Organizacion/raw/master/other/sponsors_logos/intelygenz.png",
-    "imgLocalName" : "intelygenz.png",
-    "name": "Intelygenz"  
+    "name": "Fictizia" 
 }, {
     "url": "https://www.intelygenz.software/",
     "image_url": "https://github.com/OSWeekends/Organizacion/raw/master/other/sponsors_logos/intelygenz_software.png",
