@@ -25,13 +25,6 @@ Ya sea en los eventos que [organiza la comunidad](https://www.meetup.com/es-ES/O
 
 Puedes unirte en nuestro Slack desde este [link](http://invitations-osweekends.herokuapp.com/). Por lo general estamos siguiendo los hilos en los principales canales, pero puedes contactarnos por mensajes privados o mencionarnos en cualquiera de los canales.
 
-Co-fundadores: 
-- Borja (@borjagodoy)
-- Carlos (@codingcarlos)
-- Jose (@josheriff)
-- Theba (@kooltheba)
-- Ulises (@ulisesGascon)
-
 **Email**
 
 Lo leemos con mucha frecuencia y contestamos también ;) osweekends@gmail.com
