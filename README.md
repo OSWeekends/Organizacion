@@ -7,7 +7,7 @@ La relación entre l@s miembr@s de la comunidad se fomenta no solo gracias a los
 Sin embargo vamos incluso un paso más allá: nos encanta juntarnos en equipos de trabajo alrededor de ideas que nos motiven para convertirlas en proyectos reales con impacto social y que todo el mundo pueda acceder a ellos, esa es nuestra aportación a la comunidad Open Source. Eso equipos son nuestros Guilds, compuestos por perfiles muy diferentes y que a su vez crean una unidad complementaria que desarrollan proyectos en áreas como la agricultura, la educación...hasta los datos abiertos, Blockchain y ciberseguridad.   
 La complejidad que conlleva se solventa gracias a un plan de formación abierto a tod@s para aprender a desarrollar proyectos (a nivel técnico y de personas), mucha mentoría y apoyo de l@s Seniors de la comunidad, y especialmente por la ilusión de formar parte de algo más grande.   
 
-Todo esto surgió en verano 2016 cuando tres desarrolladores, que se conocieron en Campus Madrid, se juntaron para crear "una comunidad a la que me flipara pertenecer". Gracias al entorno que Campus favorece, Jose, ex-jefe del equipo de seguridad de Campus se acercó a Carlos y Ulises, programadores full-stack, para que le ayudaran a convertirse en lo que siempre deseó ser, un desarrollador de software con impacto en la industria. 
+Todo esto surgió en verano 2016 cuando tres desarrolladores, que se conocieron en Campus Madrid, se juntaron para crear "una comunidad a la que me flipara pertenecer". 
 Las características de su grupo empaparían a la comunidad que crearon meses más tarde, en Noviembre 2016, y que ha ido creciendo exponencialmente hasta convertirse en un ecosistema de unas casi 2.000* personas (*en Feb. 2018) y que a pesar de la cantidad de asistentes que tiene (evento de Febrero 2018: 260 personas) crece manteniendo la esencia con la que surgió, el amor por el Open Source.  
 
 ## Organización
@@ -23,7 +23,8 @@ Ya sea en los eventos que [organiza la comunidad](https://www.meetup.com/es-ES/O
 
 **Slack**
 
-Puedes unirte en nuestro Slack desde este [link](http://invitations-osweekends.herokuapp.com/). Por lo general estamos siguiendo los hilos en los principales canales, pero puedes contactarnos por mensajes privados o mencionarnos en cualquiera de los canales.
+Puedes unirte en nuestro Slack, pide tu invitación en por twitter a [@os_weekends](https://twitter.com/os_weekends) o [@baumannzone](https://twitter.com/baumannzone).
+Por lo general estamos siguiendo los hilos en los principales canales, pero puedes contactarnos por mensajes privados o mencionarnos en cualquiera de los canales.
 
 **Email**
 
@@ -32,4 +33,4 @@ Lo leemos con mucha frecuencia y contestamos también ;) osweekends@gmail.com
 
 **Twitter**
 
-Solemos estar pendientes de Twitter. [@os_weekends](https://twitter.com/os_weekends)
+La mejor forma de contactar con nosotros [@os_weekends](https://twitter.com/os_weekends)
